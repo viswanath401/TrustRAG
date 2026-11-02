@@ -1,0 +1,13 @@
+streamlit
+fastapi
+uvicorn
+pymupdf
+sentence-transformers
+chromadb
+rank-bm25
+langchain
+langchain-community
+langchain-text-splitters
+python-dotenv
+Add-Content requirements.txt "groq"
+Add-Content requirements.txt "langgraph"
