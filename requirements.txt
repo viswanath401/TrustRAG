@@ -1,13 +1,11 @@
+
 streamlit
-fastapi
-uvicorn
 pymupdf
+langchain-text-splitters
 sentence-transformers
 chromadb
 rank-bm25
-langchain
-langchain-community
-langchain-text-splitters
+groq
 python-dotenv
-Add-Content requirements.txt "groq"
-Add-Content requirements.txt "langgraph"
+langgraph
+openai
